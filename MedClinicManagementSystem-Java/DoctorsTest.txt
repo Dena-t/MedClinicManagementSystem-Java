@@ -1,0 +1,3 @@
+1,Mar Sol,444 victoria square,1934-04-05,444-555-6666,Obstetric,1999-05-02
+2,Tran Man,443 Sherbrooke st,1992-08-04,555-777-9999,gp,1922-09-11
+3,john edward,666 central street,1922-03-03,514-8999-999,psychologist,1999-09-09
